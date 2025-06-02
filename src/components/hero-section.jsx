@@ -5,7 +5,8 @@ function HeroSection() {
     <section className="w-full">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center">
         <div className="flex flex-col justify-center gap-4">
-          <h1 className="text-5xl font-bold">kembangkan skill ngodingmu, bersama kami di SINTAK POLTEK </h1>
+          <h1 className="text-5xl font-bold">kembangkan skill ngodingmu, bersama kami di SINTAK POLSRI
+            jurusan manajemen informatika </h1>
           <p className="text-gray-600 text-2xl"> kalau penasaran klik di bawah ini !</p>
           <div className="flex gap-4 flex-col text-center lg:flex-row">
             <a href="" className="bg-red-500 px-4 py-2 text-white rounded-md">
