@@ -24,7 +24,7 @@ function HeroSection() {
             <p>kampus polsri</p>
           </div>
         </div>
-        <img className="w-80" src="adit.png" alt="" />
+        <img className="w-80" src="public/WhatsApp Image 2025-05-29 at 20.15.16.jpeg" alt="" />
       </div>
     </section>
   );
